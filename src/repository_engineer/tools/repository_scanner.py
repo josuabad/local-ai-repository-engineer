@@ -156,7 +156,5 @@ class RepositoryScanner(BaseTool):
 
 # if __name__ == "__main__":
 #     scanner = RepositoryScanner()
-
 #     result = scanner._run(".")
-
 #     print(result)
